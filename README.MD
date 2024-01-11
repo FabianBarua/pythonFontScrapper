@@ -2,7 +2,7 @@
 
 This Python script is a web scraper designed to download premium Linotype fonts. It uses the requests, BeautifulSoup, and download libraries to perform information extraction and manage source downloads
 
-> Note: Edit url page in ` app.py`
+> Note: Edit url page in `app.py`
 > Example: https://www.linotype.com/es/5621276/internacional-familia.html
 
 ## Run Locally
